@@ -1,0 +1,10 @@
+{
+	"name": "Janessa Wildbark",
+    "age": 27,
+    "sex": "F",
+    "race": {
+        "type": "Tiefling",
+        "subrace": "Asmodeus"
+    },
+    "appearance": ["tail", "horns", "black eyes"]
+}

@@ -1,0 +1,10 @@
+people:
+  - name: John
+    age: 25
+    gender: Male
+  - name: Alice
+    age: 30
+    gender: Female
+  - name: Bob
+    age: 22
+    gender: Male

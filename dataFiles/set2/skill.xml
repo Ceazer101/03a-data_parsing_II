@@ -1,0 +1,17 @@
+<skills>
+    <cantrips>
+        <cantrip>produce flame</cantrip>
+        <cantrip>thorn whip</cantrip>
+        <cantrip>guidance</cantrip>
+    </cantrips>
+    <spells>
+        <spell>healing word</spell>
+        <spell>ice knife</spell>
+        <spell>entangle</spell>
+    </spells>
+    <wildshape>
+        <animal>cat</animal>
+        <animal>owlbear</animal>
+        <elemental>earth</elemental>
+    </wildshape>
+</skills>

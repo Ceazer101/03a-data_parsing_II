@@ -1,0 +1,17 @@
+<people>
+  <person>
+    <name>John</name>
+    <age>25</age>
+    <gender>Male</gender>
+  </person>
+  <person>
+    <name>Alice</name>
+    <age>30</age>
+    <gender>Female</gender>
+  </person>
+  <person>
+    <name>Bob</name>
+    <age>22</age>
+    <gender>Male</gender>
+  </person>
+</people>
